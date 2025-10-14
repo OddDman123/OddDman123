@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OddDman123
 - 👀 I’m interested in anything video games, code, art, music, especially design
-- 🌱 I’m currently learning about Algorithms and Digital Logic, I guess I'm also learning blender?
+- 🌱 I’m currently learning about Databases and Microcontrollers, I'm also gett8ng into Minecraft modding
 - 💞️ I’m looking to collaborate on nothing currently, I'm already collaborating on a few projects
 - 📫 How to reach me: Email kenjiww05@gmail.com
 - 😄 Pronouns: He/Him
